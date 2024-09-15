@@ -14,6 +14,7 @@
     "@emotion/styled": "^11.13.0",
     "chakra": "^0.0.3",
     "framer-motion": "^11.5.4",
+    "mongoose": "^8.6.2",
     "next": "14.2.8",
     "react": "^18",
     "react-dom": "^18"
